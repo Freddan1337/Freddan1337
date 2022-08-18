@@ -1,6 +1,6 @@
 # Fred Ericsson
 
-Hello guys i like to play videogames and to fish for the fishies. 
+Hello guys i like to fish for the fishies. 
 <!--
 **Freddan1337/Freddan1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
